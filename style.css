@@ -1,0 +1,30 @@
+body{
+background-color: cyan;
+}
+.header{
+    background-color: rgb(45, 25, 230);
+    color: rgb(255, 255, 255);
+    height: 100px;
+}
+#DoggieRus{
+    text-align: center;
+}
+a{
+    color: white;
+}
+.titlea{
+    text-align: center;
+}
+.dog1{
+    height: 100px;
+}
+.dog2{
+    color: green;
+}
+::-webkit-scrollbar{
+    background:rgb(255, 255, 255);
+    width: 20px;
+}
+::-webkit-scrollbar-thumb{
+    background-color:green;
+}
